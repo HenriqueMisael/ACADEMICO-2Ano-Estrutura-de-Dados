@@ -1,0 +1,6 @@
+O Merge Sort é um método eficiente de ordenação que consiste em dividir e conquistar. Através da recursividade, o algoritmo reduz o problema até existir apenas 1 elemento no vetor a ser ordenado. Então parte para o próximo vetor de uma posição, ordenado. Assim, temos 2 vetores de 1 posição ordenados. Junta-se eles em 1 vetor de 2 posições e ordena. Então parte para o próximo vetor de uma posição; ordenado. O outro, também ordenado. E então estes dois são ordenados, formando um segundo vetor de duas posições ordenado. Junta-se estes dois ordenando, e forma-se um vetor de quatro posições ordenado. Assim até que se tenha o vetor inteiro ordenado.
+O Quick Sort
+
+MergeSort: 	 0 segundos
+HeapSort: 	 1 segundos
+QuickSort: 	 0 segundos
